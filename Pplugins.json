@@ -1,5 +1,6 @@
-{
-    "Author": "Taurenkey (Puni.sh)",
+[
+    {
+    "Author": "Taurenkey",
     "Name": "Artisan",
     "Punchline": "\u4e00\u4e2a\u7b80\u5355\u7684\u751f\u4ea7\u63d2\u4ef6\u3002",
     "Description": "\u4e00\u7ad9\u5f0f\u751f\u4ea7\u63d2\u4ef6\u3002",
@@ -15,4 +16,47 @@
     "DownloadLinkUpdate": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/3.0.4.8/latest.zip",
     "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Artisan/icon.png"
-  }
+  },
+{
+        "Author": "Det, Taurenkey",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/PunishXIV/AutoHook",
+        "DownloadCount": 83661,
+        "LastUpdate": 1710542906442,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/47/AutoHook/versions/latest.zip",
+        "AssemblyVersion": "4.2.1.9",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "Added an option to only use Makeshift Bait when mooch is not available",
+        "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
+    },
+    {
+        "ApplicableVersion": "any",
+        "AssemblyVersion": "1.0.1.3",
+        "Author": "Adam",
+        "Changelog": "",
+        "DalamudApiLevel": 9,
+        "Description": "运行时mod加载和管理器。",
+        "DownloadLinkInstall": "https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra/1.0.1.3",
+        "DownloadLinkTesting": "https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra/1.0.1.3",
+        "DownloadLinkUpdate": "https://dalamud_cn_3rd.otters.cloud/plugins/Penumbra/1.0.1.3",
+        "IconUrl": "https://github.com/MeowZWR/DalamudPlugin/raw/main/Plugins/Penumbra//icon.png",
+        "InternalName": "Penumbra",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LoadPriority": 69420,
+        "LoadRequiredState": 2,
+        "LoadSync": true,
+        "Name": "Penumbra",
+        "RepoUrl": "https://github.com/xivdev/Penumbra",
+        "TestingAssemblyVersion": "1.0.1.3"
+    },
+]
