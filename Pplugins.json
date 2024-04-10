@@ -38,4 +38,37 @@
         "Changelog": "Added an option to only use Makeshift Bait when mooch is not available",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
+    {
+    "Name": "V(ery) Island",
+    "InternalName": "visland",
+    "AssemblyVersion": "0.0.2.0",
+    "Author": "veyn, AtmoOmen",
+    "DownloadCount": 12383,
+    "Punchline": "自动化无人岛采集作业",
+    "Description": "自动化无人岛采集/工房作业等等\n\n国服适配与汉化: AtmoOmen\n答应我, 别闲鱼买挂了好吗?",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AtmoOmen/ffxiv_visland-cn",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/download/0.0.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/download/0.0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_visland-cn/releases/download/0.0.2.0/latest.zip"
+  },
+  {
+    "Name": "vnavmesh",
+    "InternalName": "vnavmesh",
+    "AssemblyVersion": "0.0.1.0",
+    "Author": "veyn, AtmoOmen",
+    "DownloadCount": 4976,
+    "Punchline": "行遍千里",
+    "Description": "不仅会自动寻路, 还能自动避障",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
+    "IconUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/master/icon2.png",
+    "DownloadLinkInstall": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AtmoOmen/ffxiv_navmesh-cn/releases/download/0.0.1.0/latest.zip"
+  }
 ]
