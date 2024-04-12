@@ -38,4 +38,22 @@
         "Changelog": "Added an option to only use Makeshift Bait when mooch is not available",
         "IconUrl": "https://s3.puni.sh/media/plugin/47/icon-k1slevjorpo.png"
     },
+    {
+        "Author": "veyn",
+        "Name": "vfallguy",
+        "Punchline": "Get that achievement!",
+        "Description": "Bot that does fall guys event automatically.",
+        "Tags": [],
+        "InternalName": "vfallguy",
+        "RepoUrl": null,
+        "DownloadCount": 20166,
+        "LastUpdate": 1700000789276,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
+        "AssemblyVersion": "0.0.0.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
+    }
 ]
